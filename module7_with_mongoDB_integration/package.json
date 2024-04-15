@@ -1,0 +1,21 @@
+{
+  "name": "module7",
+  "version": "1.0.0",
+  "description": "Integrate MongoDB with MongoDB driver",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shalini Marneni",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "method-override": "^3.0.0",
+    "mongodb": "^3.6.3",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "@types/mongodb": "^4.0.7"
+  }
+}
